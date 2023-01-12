@@ -8,8 +8,7 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "github.copilot",
-    "wakatime.vscode-wakatime",
-    "Orta.vscode-jest"
+    "wakatime.vscode-wakatime"
   ],
   "settings": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
